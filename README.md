@@ -1,5 +1,5 @@
 
-## 编译好的文件
+## 不懂看这里，文件下载直接使用
 ```commandline
 百度云: https://pan.baidu.com/s/1QbdsFh5-pDTuP1dxqyW1Gg
 提取码：pgwu
@@ -12,6 +12,24 @@
 https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login 
 
 扫码登录成功后，就可以生成微信公众测试号的appID和appsecret
+
+## 扫描测试号二维码后会生成微信号
+
+## 新增测试模板
+模板标题: 自定义，例如: 宝宝，晚上好!
+模板内容参考:
+{{date.DATA}}
+城市：{{city.DATA}}
+天气：{{weather.DATA}}
+最低气温: {{min_temperature.DATA}}
+最高气温: {{max_temperature.DATA}}
+今天是我们恋爱的第{{love_day.DATA}}天
+距离小宝的生日还有{{birthday.DATA}}天
+
+
+{{note_en.DATA}}
+{{note_ch.DATA}}
+
 ## 安装python3 
 官方网站: https://www.python.org/getit/
 
