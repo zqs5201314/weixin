@@ -1,4 +1,10 @@
 
+## 编译好的文件
+```commandline
+百度云: https://pan.baidu.com/s/1QbdsFh5-pDTuP1dxqyW1Gg
+提取码：pgwu
+```
+
 
 ## 前置条件
 注册一个微信公众号
