@@ -12,7 +12,7 @@ def get_access_token():
     app_secret = config.app_secret
     post_url = ("https://api.weixin.qq.com/cgi-bin/token?grant_type=client_credential&appid={}&secret={}"
                 .format(app_id, app_secret))
-    access_token = post(post_url).json()['access_token']
+    access_token = get(post_url).json()['access_token']
     # print(access_token)
     return access_token
 
