@@ -4,7 +4,7 @@ app_id = ""
 # 公众号appSecret
 app_secret = ""
 # 模板消息id
-# template_id = ""
+template_id = ""
 # 接收公众号消息的微信号
 user = ""
 
