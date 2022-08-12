@@ -17,8 +17,7 @@ https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login
 
 ## 新增测试模板
 模板标题: 自定义，例如: 宝宝，晚上好!
-
-模板内容参考:
+模板内容参考:  
 {{date.DATA}}  
 城市：{{city.DATA}}  
 天气：{{weather.DATA}}  
