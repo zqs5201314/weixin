@@ -18,6 +18,7 @@ https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login
 ## 新增测试模板
 模板标题: 自定义，例如: 宝宝，晚上好!
 模板内容参考:  
+```
 {{date.DATA}}  
 城市：{{city.DATA}}  
 天气：{{weather.DATA}}  
@@ -29,7 +30,7 @@ https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login
 
 {{note_en.DATA}}  
 {{note_ch.DATA}}
-
+```
 ## 安装python3 
 官方网站: https://www.python.org/getit/
 
